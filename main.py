@@ -7,7 +7,6 @@ from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_squared_error
 from scipy.stats import pearsonr
 
-# Define file paths
 file_paths = {
     "ADA_CNP_FL": "/Users/daniellethompson/Desktop/Test/ADA_CNP_FL.txt",
     "ADA_CNP_LA": "/Users/daniellethompson/Desktop/Test/ADA_CNP_LA.txt",
